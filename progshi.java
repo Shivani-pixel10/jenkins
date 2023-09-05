@@ -1,4 +1,4 @@
-public class SwapNumbers {
+public class progshi {
 
     public static void main(String[] args) {
 
